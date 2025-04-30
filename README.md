@@ -8,7 +8,7 @@ Bước 1. Chuẩn bị môi trường:
   - Cài đặt Python và các thư viện liên quan: Scapy, NetfilterQueue.
   - Cài đặt và thiết lập iptables.
 </br>
-Bước 2. Xây dựng chức năng cơ bản:
+Bước 2. Xây dựng chức năng cơ bản: </br>
   - Sử dụng Scapy để phân tích lưu lượng mạng.
   - Viết logic chặn IP dựa trên blacklist.
 </br>
