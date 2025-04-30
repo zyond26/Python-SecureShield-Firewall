@@ -7,11 +7,12 @@ Mục tiêu: Xây dựng firewall để kiểm soát lưu lượng mạng, phát
 Bước 1. Chuẩn bị môi trường:
   - Cài đặt Python và các thư viện liên quan: Scapy, NetfilterQueue.
   - Cài đặt và thiết lập iptables.
-</br>
+
 Bước 2. Xây dựng chức năng cơ bản: </br>
-  - Sử dụng Scapy để phân tích lưu lượng mạng.
+  - Sử dụng Scapy để phân tích lưu lượng mạng.</br>
   - Viết logic chặn IP dựa trên blacklist.
 </br>
+
 - Phát hiện tấn công DDoS:- Xây dựng thuật toán kiểm tra lưu lượng bất thường (số lượng gói tin trên giây).
 - Chặn lưu lượng từ các nguồn có hành vi đáng ngờ.
 
