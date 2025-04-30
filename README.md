@@ -11,9 +11,9 @@ Bước 1. Chuẩn bị môi trường:
 Bước 2. Xây dựng chức năng cơ bản: </br>
   - Sử dụng Scapy để phân tích lưu lượng mạng.</br>
   - Viết logic chặn IP dựa trên blacklist.
-</br>
 
-- Phát hiện tấn công DDoS:- Xây dựng thuật toán kiểm tra lưu lượng bất thường (số lượng gói tin trên giây).
+Bước 3. Phát hiện tấn công DDoS:</br>
+- Xây dựng thuật toán kiểm tra lưu lượng bất thường (số lượng gói tin trên giây).</br>
 - Chặn lưu lượng từ các nguồn có hành vi đáng ngờ.
 
 - Chặn quét cổng (Port Scanning):- Xác định các gói SYN liên tiếp từ một nguồn.
