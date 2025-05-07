@@ -24,6 +24,7 @@ Bước 5.Kiểm thử và báo cáo:</br>
 - Kiểm tra firewall trên một mạng thử nghiệm. </br>
 - Tạo báo cáo chi tiết về lưu lượng bị chặn và các hành vi đáng ngờ.
   
+  
 
 
 
